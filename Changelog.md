@@ -8,14 +8,22 @@ ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).i
 
 Here’s the accuracy with ReLU:
 - this is the accurancy by using relu
+- 
    ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20221323.png?raw=true)
+  
 -Accurancy
- ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220804.png?raw=true)
-This is after using tagh
-   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20221345.png?raw=true)
-  - Accurancy
- ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220830.png?raw=true)
 
+ ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220804.png?raw=true)
+ 
+This is after using tagh
+
+   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20221345.png?raw=true)
+   
+  - Accurancy
+  - 
+ ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220830.png?raw=true)
+### Added new layers 
+ ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230809.png?raw=true)
 # CNN Apple and Tomatoes
 -Added more layers to the relu activation to see if the accurancy increase ,current accurancy is 65%.Deeper network: 6 convolutional layers instead of 5.
   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20181357.png?raw=true)
