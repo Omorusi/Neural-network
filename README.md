@@ -1,8 +1,12 @@
 # Apple vs Tomato Image Classifier
+
 This project aims to build a deep learning model that can predict whether an image is of an apple or a tomato. The challenge is that both apples and tomatoes are red and share many visual similarities, making it harder for a model to distinguish between them. However, by training a convolutional neural network (CNN), we can leverage the model's ability to learn hierarchical features from images and effectively classify them
 
 ## Objective
 The goal of this project is to train a machine learning model that can take an image as input and predict whether the image contains an apple or a tomato. This is a binary classification problem, where the model learns to differentiate between two categories: apples and tomatoes.
+
+## Notebook 
+I used this notebook to have a better understanding o fhow the model works (https://github.com/Omorusi/Neural-network/blob/main/Copy_of_Cat_Dog_classifier_CNN_(1).ipynb)
 
 ## Techonologies 
 - PyTorch: The core library for building and training the model, providing dynamic computation graphs and GPU support.
@@ -111,12 +115,14 @@ class DeepCNN(nn.Module):
        ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20182612.png?raw=true)
       ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20182558.png?raw=true)
 
-##  Others NN models 
+##  Others models 
 -These are some of the model of neural network that i been working on :
 
 ### ANN Basic 
 ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
 -I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
+
+ I used this notebook(https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb) to get a better understanding of neural networks. 
 
 ### CNN
 CNN (https://github.com/Omorusi/Neural-network/blob/main/RNN_With_Chatgpt.ipynb)
