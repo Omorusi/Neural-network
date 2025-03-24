@@ -119,11 +119,11 @@ class DeepCNN(nn.Module):
 -These are some of the model of neural network that i been working on :
 
 ### ANN Basic 
-ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
--I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
+- ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
+- I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
 
- I used this notebook(https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb) to get a better understanding of neural networks. 
+ - I used this notebook(https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb) to get a better understanding of neural networks. 
 
 ### CNN
-CNN (https://github.com/Omorusi/Neural-network/blob/main/RNN_With_Chatgpt.ipynb)
+- CNN (https://github.com/Omorusi/Neural-network/blob/main/RNN_With_Chatgpt.ipynb)
 -this a model using chapgpt to see how using AI could speed up creating models.
