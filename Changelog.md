@@ -6,4 +6,7 @@ on the nootbook i use () this nootbook to get a better idea the changes that i m
 
 
 # CNN Apple and Tomatoes
+- Changed the activation from relu  to LeakyReLU to see how accurancy the model will be after it.
+
+-Added another layer to see if the accurancy increase 
 
