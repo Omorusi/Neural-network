@@ -36,7 +36,7 @@ I used this notebook to have a better understanding o fhow the model works (http
 
 -Added more layers to the relu activation to see if the accurancy increase ,current accurancy is 65%.Deeper network: 6 convolutional layers instead of 5.
   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20181357.png?raw=true)
-- Changed the activation from relu to LeakyReLU to see how accurancy the model will be after it. The accurancy using relu was 78% 
+- Changed the activation from relu to LeakyReLU to see the accurancy of the model will be after it. The accurancy using relu was 78% 
   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20175229.png?raw=true)
    ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20175250.png?raw=true)
   
@@ -47,7 +47,7 @@ I used this notebook to have a better understanding o fhow the model works (http
 
 
 # Chapgpt model
--These are the hpromps used to create the model:
+-These are the promps used to create the model:
 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224151.png?raw=true)
  
@@ -119,6 +119,6 @@ print(model)
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224923.png?raw=true)
 
  ### Summary fo the ChatGPT model
--  The model improve , but the model take more than 4 hours to load the completed model
+- The model improved, but it took more than 4 hours to fully load.
 -  It took 2 hours to have this epoch only.
   ![image alt]( https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20234821.png?raw=true)
