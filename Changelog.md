@@ -119,5 +119,6 @@ print(model)
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224923.png?raw=true)
 
  ### Summary fo the ChatGPT model
--  The model improve , but the model take more than 3 hours to load the completed model
+-  The model improve , but the model take more than 4 hours to load the completed model
+-  It took 2 hours to have this epoch only.
   ![image alt]( https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20234821.png?raw=true)
