@@ -1,10 +1,10 @@
 # ANN Basic 
-on the nootbook i use () this nootbook to get a better idea the changes that i made where:
+on the nootbook i use () this nootbook to get a better idea the changes that I made where:
 - Add new hidden layers to see how accurancy does the model imprpove.
 - As well try tanh in the activation function to see the accurancy  of it insted of using the relu activation function .
 
 ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
-I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
+- I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
 
 Here’s the accuracy with ReLU:
 - this is the accurancy by using relu
