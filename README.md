@@ -31,3 +31,4 @@ The goal of this project is to train a machine learning model that can take an i
 ##  Others NN models 
 These are some of the model of neural network that i been working on :
 ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
+RNN (https://github.com/Omorusi/Neural-network/blob/main/RNN_With_Chatgpt.ipynb)
