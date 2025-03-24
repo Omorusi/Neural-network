@@ -1,7 +1,7 @@
 # ANN Basic 
 on the nootbook i use () this nootbook to get a better idea the changes that I made where:
-- Add new hidden layers to see how accurancy does the model imprpove.
-- As well try tanh in the activation function to see the accurancy  of it insted of using the relu activation function .
+- Add new hidden layers to see how accurancy does the model improve.
+- As well try Tanh in the activation function to see the accurancy  of it insted of using the relu activation function .
 
 ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
 - I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
@@ -15,13 +15,14 @@ Here’s the accuracy with ReLU:
 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220804.png?raw=true)
  
-This is after using tagh
+This is after using Tanh
 
    ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20221345.png?raw=true)
    
   - Accurancy
-  - 
+    
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220830.png?raw=true)
+ 
 ### Added new layers 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230809.png?raw=true)
 # CNN Apple and Tomatoes
@@ -33,9 +34,15 @@ This is after using tagh
 - Added another layer to see if the accurancy increase
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20181722.png?raw=true)
 
+-Accurancy after addding the new layers
+
+ ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230846.png?raw=true)
+
 # Chapgpt model
 -These are the hpromps used to create the model:
+
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224151.png?raw=true)
+ 
 ### First code version 
 import torch
 import torch.nn as nn
@@ -97,6 +104,7 @@ model = EnhancedCNN()
 print(model)
 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224509.png?raw=true)
+ 
  ### Issues
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224653.png?raw=true)
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20224653.png?raw=true)
