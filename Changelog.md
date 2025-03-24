@@ -25,6 +25,10 @@ This is after using Tanh
  
 ### Added new layers 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230809.png?raw=true)
+
+ -Accurancy after addding the new layers
+
+ ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230846.png?raw=true)
 # CNN Apple and Tomatoes
 -Added more layers to the relu activation to see if the accurancy increase ,current accurancy is 65%.Deeper network: 6 convolutional layers instead of 5.
   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20181357.png?raw=true)
@@ -34,9 +38,7 @@ This is after using Tanh
 - Added another layer to see if the accurancy increase
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20181722.png?raw=true)
 
--Accurancy after addding the new layers
 
- ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230846.png?raw=true)
 
 # Chapgpt model
 -These are the hpromps used to create the model:
