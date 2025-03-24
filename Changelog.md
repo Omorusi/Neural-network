@@ -1,7 +1,9 @@
 # ANN Basic 
-on the nootbook i use () this nootbook to get a better idea the changes that I made where:
-- Add new hidden layers to see how accurancy does the model improve.
-- As well try Tanh in the activation function to see the accurancy  of it insted of using the relu activation function .
+In the notebook, I used this notebook(https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb) to get a better understanding of neural networks. The changes I made include:
+
+Adding new hidden layers to observe how the model's accuracy improves.
+
+Testing the Tanh activation function instead of ReLU to compare their impact on accuracy.
 
 ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
 - I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
@@ -30,6 +32,8 @@ This is after using Tanh
 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20230846.png?raw=true)
 # CNN Apple and Tomatoes
+I used this notebook to have a better understanding o fhow the model works (https://github.com/Omorusi/Neural-network/blob/main/Copy_of_Cat_Dog_classifier_CNN_(1).ipynb)
+
 -Added more layers to the relu activation to see if the accurancy increase ,current accurancy is 65%.Deeper network: 6 convolutional layers instead of 5.
   ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20181357.png?raw=true)
 - Changed the activation from relu to LeakyReLU to see how accurancy the model will be after it. The accurancy using relu was 78% 
