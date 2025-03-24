@@ -118,6 +118,6 @@ class DeepCNN(nn.Module):
 ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
 -I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
 
-### RNN
-RNN (https://github.com/Omorusi/Neural-network/blob/main/RNN_With_Chatgpt.ipynb)
+### CNN
+CNN (https://github.com/Omorusi/Neural-network/blob/main/RNN_With_Chatgpt.ipynb)
 -this a model using chapgpt to see how using AI could speed up creating models.
