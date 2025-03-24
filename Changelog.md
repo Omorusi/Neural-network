@@ -1,14 +1,14 @@
 # ANN Basic 
-In the notebook, I used this notebook(https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb) to get a better understanding of neural networks. The changes I made include:
+-In the notebook, I used this notebook(https://github.com/dcavar/python-tutorial-notebooks/blob/master/notebooks/Neural%20Network%20Example%20with%20Keras.ipynb) to get a better understanding of neural networks. The changes I made include:
 
-Adding new hidden layers to observe how the model's accuracy improves.
+-Adding new hidden layers to observe how the model's accuracy improves.
 
-Testing the Tanh activation function instead of ReLU to compare their impact on accuracy.
+-Testing the Tanh activation function instead of ReLU to compare their impact on accuracy.
 
-ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
+-ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
 - I experimented with the activation function in the basic ANN model from this repository. Initially, the model used ReLU, and I wanted to see how the accuracy would change if I replaced it with Tanh.
 
-Here’s the accuracy with ReLU:
+-Here’s the accuracy with ReLU:
 - this is the accurancy by using relu
 - 
    ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20221323.png?raw=true)
@@ -17,7 +17,7 @@ Here’s the accuracy with ReLU:
 
  ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20220804.png?raw=true)
  
-This is after using Tanh
+-This is after using Tanh
 
    ![image alt](https://github.com/Omorusi/Neural-network/blob/main/Screenshot%202025-03-24%20221345.png?raw=true)
    
