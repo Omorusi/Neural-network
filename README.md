@@ -28,3 +28,6 @@ The goal of this project is to train a machine learning model that can take an i
 
    - Testing: Test images (not seen during training) fed into the model.
 
+##  Others models 
+These are some of the model of neural network that i been working on :
+ANN basic( https://github.com/Omorusi/Neural-network/blob/main/Basic_ANN(Copy).ipynb)
