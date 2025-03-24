@@ -12,21 +12,19 @@ The goal of this project is to train a machine learning model that can take an i
 - Kagglehub: Downloads the Apple vs Tomato dataset directly from Kaggle.( https://www.kaggle.com/datasets/samuelcortinhas/apples-or-tomatoes-image-classification )
 
   ## Steps during the model
-  Dataset Collection: Apple vs Tomato dataset downloaded using Kagglehub.
+ -  Dataset Collection: Apple vs Tomato dataset downloaded using Kagglehub.
   
-  Data Preprocessing: Images opened, resized, and converted to RGB format using PIL (Pillow).
+ - Data Preprocessing: Images opened, resized, and converted to RGB format using PIL (Pillow).
 
-Torchvision transforms applied: Resizing images to 224x224 pixels.
+ - Torchvision transforms applied: Resizing images to 224x224 pixels.
 
-Model Architecture:
+  - Model Architecture:Convolutional Neural Network (CNN) used.
 
-Convolutional Neural Network (CNN) used.
+  - Layers: Convolutional Layers: Extract image features (edges, textures).
 
-Layers: Convolutional Layers: Extract image features (edges, textures).
+  - Training the Model: Model trained on the training dataset and Loss function minimizes prediction error.
 
-Training the Model: Model trained on the training dataset and Loss function minimizes prediction error.
+  - Prediction: After training, model predicts “apple” or “tomato” based on input image.
 
-Prediction: After training, model predicts “apple” or “tomato” based on input image.
-
-Testing: Test images (not seen during training) fed into the model.
+   - Testing: Test images (not seen during training) fed into the model.
 
